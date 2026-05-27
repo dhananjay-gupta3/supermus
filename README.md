@@ -22,7 +22,7 @@ A full-stack, production-ready resume builder application with beautiful animati
 ### Frontend
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
-- **Styling**: Tailwind CSS
+- **Styling**: React-Bootstrap, Bootstrap
 - **Animation**: Framer Motion
 - **Forms**: React Hook Form + Zod validation
 - **Charts**: Recharts
